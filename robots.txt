@@ -1,0 +1,5 @@
+User-agent: 
+Crawl-delay: 1
+Host: https://sport-newssng.com
+Sitemap: https://sport-newssng.com/sitemap.xml
+
